@@ -36,10 +36,12 @@ This project is a basic implementation of the classic Tic Tac Toe game using the
 
 2. Navigate to the project directory
 
+   ```bash
    cd tic-tac-toe
 
 3. Run the game
 
+   ```bsh
    python tic_tac_toe.py
 
 
