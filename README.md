@@ -9,8 +9,8 @@ A simple Tic Tac Toe game implemented in Python using Tkinter.
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [How to Play](#how-to-play)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ## Overview
 
@@ -34,4 +34,19 @@ This project is a basic implementation of the classic Tic Tac Toe game using the
    ```bash
    git clone https://github.com/your-username/tic-tac-toe.git
 
+2. Navigate to the project directory
 
+   cd tic-tac-toe
+
+3. Run the game
+
+   python tic_tac_toe.py
+
+
+## How to Play 
+
+- Each player takes turns to click on an empty cell to place their marker (X or O).
+
+- The game ends when a player has three markers in a row (horizontally, vertically, or diagonally) or when all cells are filled.
+
+- Use the "Reset Game" option in the menu to start a new game.
