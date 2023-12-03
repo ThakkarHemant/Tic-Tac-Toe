@@ -44,7 +44,6 @@ This project is a basic implementation of the classic Tic Tac Toe game using the
    ```bsh
    python tic_tac_toe.py
 
-
 ## How to Play 
 
 - Each player takes turns to click on an empty cell to place their marker (X or O).
